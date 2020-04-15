@@ -38,11 +38,11 @@ R 0000.00 | R 0000.00
 
 ### Screenshots:
 ##### Investment Calculations using simple interest:
-Screenshot....
+![Investment Simple Interest](https://github.com/keenan-n/HypeDev_Python_L2Task12_FinanceCalculator/blob/master/inv_simple.png)
 ##### Investment Calculations using compound interest:
-Screenshot....
+![Investment Compound Interest](https://github.com/keenan-n/HypeDev_Python_L2Task12_FinanceCalculator/blob/master/inv_compound.png)
 ##### Bond Calculations
-Screenshot....
+![Bond Image](https://github.com/keenan-n/HypeDev_Python_L2Task12_FinanceCalculator/blob/master/bond.png)
 
 
 ### Support:
